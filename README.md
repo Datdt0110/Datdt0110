@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Datdt0110
 - 👀 I’m interested in Billards
 - 🌱 I’m currently learning FPT
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: I have many habit kkk
+- 💞️ I’m looking to collaborate on FPT SoftWare
+- - ⚡ Fun fact: I have many habit kkk
 
 
 
